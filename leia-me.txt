@@ -1,0 +1,16 @@
+CASTEL ANGOLA — Calendário de Trabalho
+
+Conteúdo:
+- index.html: aplicação de calendário
+- icon.svg: logótipo/ícone criado para esta aplicação
+- manifest.webmanifest e sw.js: suporte PWA e funcionamento offline após a primeira abertura
+
+Como instalar no Android:
+1. Publique esta pasta num alojamento HTTPS (por exemplo, um site/hosting).
+2. Abra o endereço no Chrome do Android.
+3. Abra o menu ⋮ e escolha “Instalar app” ou “Adicionar ao ecrã inicial”.
+
+O calendário cobre novembro de 2026 a dezembro de 2027 e usa o ciclo 2 dias de trabalho / 2 dias de folga, ancorado em 22 e 23/11/2026 como dias de trabalho.
+Os feriados nacionais destacados a vermelho são considerados dias de trabalho.
+
+Nota: este é um logótipo gráfico criado para o projeto, com o texto CASTEL ANGOLA; não é uma reprodução oficial verificada de um logótipo empresarial.
